@@ -1,0 +1,9 @@
+.skills__title{
+
+    color: var(--preto-100, #464646);
+    text-align: center;
+    font-size: 1.375rem;
+    font-family: Raleway;
+    font-weight: 700;
+    
+}

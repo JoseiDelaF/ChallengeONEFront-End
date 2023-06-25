@@ -1,0 +1,21 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+    gap: 10px;
+}
+
+@media screen and (min-width: 768px){
+    .menu{
+        padding: 1rem 2rem;
+    }
+}
+
+
+@media screen and (min-width: 1024px){
+    .menu{
+        padding: 2rem 9rem;
+    }
+}

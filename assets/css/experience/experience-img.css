@@ -1,0 +1,21 @@
+
+.experience__img{
+    height: 9rem;
+    align-self: stretch;
+}
+
+
+@media screen and (min-width: 768px){
+    .experience__img{
+        height: 25rem;
+        align-self: stretch;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .experience__img{
+        width: 50%;
+        height: auto;
+    }
+}
+

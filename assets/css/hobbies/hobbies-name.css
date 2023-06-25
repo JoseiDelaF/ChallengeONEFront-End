@@ -1,0 +1,12 @@
+.hobbies__name{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+align-self: stretch;
+
+color: var(--preto-100, #464646);
+font-size: 1rem;
+font-family: Raleway;
+font-weight: 700;
+}

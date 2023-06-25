@@ -1,0 +1,12 @@
+.hobbies__box{
+    display: flex;
+    height: 7.375rem;
+    padding: 1rem;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 0.5rem;
+    flex: 1 0 0;
+
+    background: var(--preto-branco, #FFF);
+}

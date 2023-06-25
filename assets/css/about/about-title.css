@@ -1,0 +1,15 @@
+.about__title{
+    color: var(--preto-100, #464646);
+    font-size: 1.375rem;
+    font-family: Raleway;
+    font-weight: 700;
+}
+
+@media screen and (min-width: 1024px){
+    .about__title{
+        color: var(--preto-100, #464646);
+        font-size: 2rem;
+        font-family: Raleway;
+        font-weight: 700;
+    }
+}

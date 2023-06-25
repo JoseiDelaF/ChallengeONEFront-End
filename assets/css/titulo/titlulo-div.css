@@ -1,0 +1,19 @@
+@media screen and (min-width: 768px){
+    
+    .title__div{
+    flex-direction: row-reverse;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    align-self: stretch;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .title__div{
+        flex-direction: row-reverse;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

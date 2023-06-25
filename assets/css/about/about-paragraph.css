@@ -1,0 +1,26 @@
+.about__paragraph{
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+
+    color: var(--preto-100, #464646);
+    font-size: 0.875rem;
+    font-family: Raleway;
+}
+
+@media screen and (min-width: 768px){
+    .about__paragraph{
+        color: var(--preto-100, #464646);
+    font-size: 1rem;
+    font-family: Raleway;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .about__paragraph{
+        color: var(--preto-100, #464646);
+        font-size: 1.5rem;
+        font-family: Raleway;
+    }
+}
+

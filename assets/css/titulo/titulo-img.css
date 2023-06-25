@@ -1,0 +1,25 @@
+.title__profile{
+    width: 6.125rem;
+    height: 6.125rem;
+}
+
+@media screen and (min-width: 768px){
+    .title__profile{
+        width: 9.125rem;
+        height: 9.125rem;
+
+        background: cover no-repeat;
+
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .title__profile{
+
+        width: 23rem;
+        height: 23rem;
+        flex-shrink: 0;
+        border-radius: 368px;
+        background: cover no-repeat;
+    }
+}

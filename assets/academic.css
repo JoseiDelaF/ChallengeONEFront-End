@@ -1,0 +1,8 @@
+.academic{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    align-self: stretch;
+    background: var(--azul-10, #EAF2FD);
+}
